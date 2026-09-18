@@ -2,27 +2,31 @@
 
 # Diogo Weyne
 
-Trabalho principalmente com **dados** — ciência e análise de dados — e um pouco de **backend**, sempre com foco em **Python** e seus frameworks: Pandas, NumPy, Scikit-Learn, FastAPI e Streamlit.
+Trabalho principalmente com **dados** — ciência e análise de dados — e um pouco de **backend**, sempre com foco em **Python** e seus frameworks.
 
-[GitHub](https://github.com/diogoweyne) · [LinkedIn](https://www.linkedin.com/in/diogo-weyne-b621632b3/)
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="scikit-learn logo" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
+
+<br>
+<br>
+
+<a href="https://github.com/diogoweyne" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/diogo-weyne-b621632b3/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo" />
+</a>
 
 </div>
-
-<br>
-
-## Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [cyptx-ai](https://github.com/diogoweyne/cyptx-ai) | Inteligência conversacional com Pandas, Scikit-Learn e NLP (TF-IDF) |
-| [email-ai-classifier](https://github.com/diogoweyne/email-ai-classifier) | Classificador de e-mails com FastAPI, Streamlit e OpenAI API |
-| [gsDataScience](https://github.com/diogoweyne/gsDataScience) | Análise exploratória e estatística com Pandas, NumPy, Matplotlib e Seaborn |
-| [CheckInOutMotosApi](https://github.com/diogoweyne/CheckInOutMotosApi) | API RESTful em ASP.NET Core com banco Oracle |
-
-<br>
-
-## Linguagens mais usadas
-
-Jupyter Notebook 82.9% · C# 6.6% · Python 4.7% · Java 2.4% · TypeScript 1.7% · CSS 0.9%
-
-<sub>Calculado a partir dos bytes de código de todos os repositórios públicos (API do GitHub)</sub>
