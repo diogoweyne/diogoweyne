@@ -29,22 +29,12 @@
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/diogoweyne/cyptx-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoweyne&repo=cyptx-ai&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/diogoweyne/email-ai-classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoweyne&repo=email-ai-classifier&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/diogoweyne/CheckInOutMotosApi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoweyne&repo=CheckInOutMotosApi&theme=dracula&hide_border=true" />
-</a>
-<a href="https://github.com/diogoweyne/GSdotnet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoweyne&repo=GSdotnet&theme=dracula&hide_border=true" />
-</a>
-
-</div>
+| Projeto | Descrição |
+|---|---|
+| [**cyptx-ai**](https://github.com/diogoweyne/cyptx-ai) | Inteligência conversacional com Pandas, Scikit-Learn e NLP (TF-IDF) |
+| [**email-ai-classifier**](https://github.com/diogoweyne/email-ai-classifier) | Classificador de e-mails com FastAPI, Streamlit e OpenAI API |
+| [**CheckInOutMotosApi**](https://github.com/diogoweyne/CheckInOutMotosApi) | API RESTful em ASP.NET Core com banco Oracle |
+| [**GSdotnet**](https://github.com/diogoweyne/GSdotnet) | API em ASP.NET Core 9 com EF Core e Swagger |
 
 <br>
 
@@ -52,7 +42,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoweyne&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-82.9%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6.6%25-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.7%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2.4%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1.7%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0.9%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<sub>Calculado a partir dos bytes de código de todos os repositórios públicos (API do GitHub)</sub>
 
 </div>
 
