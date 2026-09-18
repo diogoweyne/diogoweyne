@@ -1,7 +1,5 @@
 <h2 align="left">Olá! Seja bem vindo ao meu perfil!</h2>
 
-Trabalho principalmente com dados — ciência e análise de dados — e um pouco de backend, sempre com foco em Python e seus frameworks.
-
 <h4 align="left">Linguagens e ferramentas que mais uso:</h4>
 
 <div align="center">
